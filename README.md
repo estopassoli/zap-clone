@@ -27,3 +27,13 @@ Este projeto será uma rede social de Chat online semelhante ao WhatsApp Web!
 
 ## To-do
 
+## Versions
+
+<h2>1.0.0</h2> 
+- Estruturamento do código
+- Estilização do front-end
+- Criação dos documentos
+
+<h2>1.0.1</h2>
+- Estruturação do servidor
+- Criação da api
